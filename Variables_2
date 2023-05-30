@@ -2,7 +2,7 @@
 	<body>
 		<script>
 			let planetEarth = "Земля";
-			let currentUser = "Пользователь";
+			let currentUserName = "Пользователь";
 		</script>
 	</body>
 </html>
