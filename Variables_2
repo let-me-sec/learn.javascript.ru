@@ -1,0 +1,8 @@
+<html>
+	<body>
+		<script>
+			let planetEarth = "Земля";
+			let currentUser = "Пользователь";
+		</script>
+	</body>
+</html>
