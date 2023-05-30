@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+	<html>
+		<body>
+  			<script>
+   				'use strict';
+    			let userName = prompt("Как тебя зовут?", "");
+    			alert(`Привет, ${userName}`);
+  			</script>
+		</body>
+	</html>
